@@ -5,8 +5,8 @@ This is my Python learning repository.There are my Python projects in it.And I w
 
 ## abs.py
 V1.0.0</br>
-This is a simple abs changer.It just can change random numbers from -100 to 100.I think you want to change your own numbers.You can try the dev version(V1.0.1d) in the dev branch.
+This is a simple abs changer.It just can change random numbers from -100 to 100.I think you want to change your own numbers.You can try the dev version(V1.0.1d).
 
 
 # more
-* dev versions:They are insider versions in the dev branch.They have some new feture.However,they have many bugs.
+* dev versions:They are insider versions.They have some new feture.However,they have many bugs.
