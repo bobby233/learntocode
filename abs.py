@@ -1,10 +1,9 @@
 #Created by bobby233.Github:https://github.com/bobby233/learnpython
-#Version:V1.0.0
-import random
+#Version:V1.0.1
+a = input('type in a number to change to abs:')
+b = int(a)
 
-a = random.randint(-100, 100)
-
-if a >= 0:
-    print(a)
+if b >= 0:
+    print(b)
 else:
-    print(-a)
+    print(-b)

@@ -10,13 +10,23 @@ This is my Python learning repository. There are my Python projects in it. And I
 V1.0.1</br>
 This is a simple abs changer. It can change any number to abs.</br>
 And the code is really easy:
+````py
+a = input('type in a number to change to abs:')
+b = int(a)
+
+if b >= 0:
+    print(b)
+else:
+    print(-b)
+````
 
 
 # update histories
 ## abs.py
-* created in Jan.21. (V1.0.0)
-* dev created in Jan.21. (V1.0.1d)
-* change any number to abs. (V1.0.1)
+* Jan.21: created. (V1.0.0)
+* Jan.21: dev created. (V1.0.1d)
+* Jan.21: change any number to abs. (V1.0.1)
+* Jan.21: dev removed.
 
 
 # more
