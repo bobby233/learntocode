@@ -20,6 +20,9 @@ else:
     print(-b)
 ````
 
+## scoregrowthrate.py
+V1.0.0</br>
+This is a programme, but a tutorial. Please download it, it's very helpful.
 
 # update histories
 ## abs.py
