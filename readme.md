@@ -1,7 +1,7 @@
 # learnpython
 Important: The author is a Chinese. But I want to use English.</br>
-````
 py
+````
 print('Hello!')
 ````
 This is my Python learning repository. There are my Python projects in it. And I will update the projects weekly. If I am wrong in someplace, welcome to correct it.
