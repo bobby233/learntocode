@@ -1,3 +1,5 @@
+# 新年快乐!   Happy Chinese New Year!
+It is Chinese New Year these days. I will not update so quickly. But I will change this repository's name. It'll be 'learntocode'. And I will put some of my other coding project(HTML, C...) into it. Even hacking project!
 # learnpython
 Important: The author is a Chinese. But I want to use English.</br>
 ```` py
