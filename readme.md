@@ -1,5 +1,5 @@
-# 新年快乐!   Happy Chinese New Year!
-It is Chinese New Year these days. I will not update so quickly. But I will change this repository's name. It'll be 'learntocode'. And I will put some of my other coding project(HTML, C...) into it. Even hacking project!
+# 注意疫情防控!
+中国的开发者朋友们注意了，近期的新型冠状病毒(2019-nCoV)，正在中国迅速蔓延。在此状态下，大家一定要做好疫情防控，尽量不外出，外出一定要戴口罩，自己有发热等症状必须及时就医。希望大家可以共同抗击疫情，过个好年！
 
 
 
