@@ -30,13 +30,20 @@ else:
 V1.0.0</br>
 This is a programme, but a tutorial. Please download it, it's very helpful.
 
+### passwordchecker.py
+V1.0.0</br>
+This is a password checker. It is really easy to change the full app.
+
 
 ## update histories
 ### abs.py
-* Jan.21: created. (V1.0.0)
-* Jan.21: dev created. (V1.0.1d)
-* Jan.21: change any number to abs. (V1.0.1)
-* Jan.21: dev removed.
+1. Jan.21: created. (V1.0.0)
+2. Jan.21: dev created. (V1.0.1d)
+3. Jan.21: change any number to abs. (V1.0.1)
+4. Jan.21: dev removed.
+
+### passwordchecker.py
+1. Feb.6: created. (V1.0.0)
 
 
 
