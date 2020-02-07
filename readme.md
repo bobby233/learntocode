@@ -6,7 +6,8 @@
 
 # learntocode
 Important: The author is a Chinese. But I want to use English.</br>
-There are my code learning project in this repository. There are many languages. Like Python, HTML, C and some else. Welcome you to learn here. I'll update weekly.
+There are my code learning project in this repository. There are many languages. Like Python, HTML, C and some else. Welcome you to learn here. I'll update monthly.</br>
+However, I'm learning hardware these days. So update monthly.
 ## python
 ```` py
 print('Hello!')
