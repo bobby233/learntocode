@@ -8,7 +8,25 @@
 Important: The author is a Chinese. But I want to use English.</br>
 There are my code learning project in this repository. There are many languages. Like Python, HTML, C and some else. Welcome you to learn here. I'll update monthly.</br>
 However, I'm learning hardware these days. So update monthly.
-## python
+
+
+
+
+# Contents
+- [Python](https://github.com/bobby233/learntocode#python)
+    - [abs.py](https://github.com/bobby233/learntocode#abspy)
+    - [scoregrowthrate.py](https://github.com/bobby233/learntocode#scoregrowthratepy)
+    - [passwordchecker.py](https://github.com/bobby233/learntocode#passwordcheckerpy)
+- [update histories](https://github.com/bobby233/learntocode#update-histories)
+    - [abs.py](https://github.com/bobby233/learntocode#abspy-1)
+    - [scoregrowthrate.py](https://github.com/bobby233/learntocode#scoregrowthratepy-1)
+    - [passwordchecker.py](https://github.com/bobby233/learntocode#passwordpy-1)
+- [HTML(CSS, JS)](https://github.com/bobby233/learntocode#htmlcss-js)
+    - [clock.html](https://github.com/bobby233/learntocode#clockhtml)
+- [update histories](https://github.com/bobby233/learntocode#update-histories-1)
+    - [clock.html](https://github.com/bobby233/learntocode#clockhtml-1)
+- [more](https://github.com/bobby233/learntocode#more)
+## Python
 ```` py
 print('Hello!')
 ````
